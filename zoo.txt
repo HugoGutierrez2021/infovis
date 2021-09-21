@@ -1,1 +1,9 @@
+Protovis
+Index Charts
 stream graph
+Flow Maps
+Choropleth Maps
+Dorling cartogram
+dendrogram
+wasted space
+Force-directed Layouts
