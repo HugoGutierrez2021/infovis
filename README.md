@@ -6,3 +6,5 @@ InfoVis Itba
 ### Visualización mom 2021w37 [Ver](https://public.tableau.com/app/profile/hugoggutierrez/viz/Libro1-20210917/Hoja1)
 
 ### Txt Raw Visualization Zoo [Ver](https://raw.githubusercontent.com/HugoGutierrez2021/infovis/main/zoo.txt)
+
+### Txt Blame Visualization Zoo [Ver](https://github.com/HugoGutierrez2021/infovis/blame/main/zoo.txt)
