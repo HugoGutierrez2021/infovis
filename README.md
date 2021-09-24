@@ -7,4 +7,4 @@ InfoVis Itba
 
 ### Txt Raw Visualization Zoo [Ver](https://raw.githubusercontent.com/HugoGutierrez2021/infovis/main/zoo.txt)
 
-### Txt Blame Visualization Zoo [Ver](https://github.com/HugoGutierrez2021/infovis/blame/main/zoo.txt)
+### Txt Visualization Zoo [Ver](https://hugogutierrez2021.github.io/infovis/zoo.txt)
