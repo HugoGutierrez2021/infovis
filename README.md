@@ -9,4 +9,4 @@ InfoVis Itba
 
 ### Txt Visualization Zoo [Ver](https://hugogutierrez2021.github.io/infovis/zoo.txt)
 
-### Txt Visualization Zoo [Ver](https://hugogutierrez2021.github.io/infovis/mom2021w38.html)
+### mom2021w38-Flourish [Ver](https://hugogutierrez2021.github.io/infovis/mom2021w38.html)
