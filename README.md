@@ -7,6 +7,6 @@ InfoVis Itba
 
 ### Visualización mom 2021w38-Flourish [Ver](https://hugogutierrez2021.github.io/infovis/mom2021w38.html)
 
-### Txt Visualization Zoo [Ver](https://hugogutierrez2021.github.io/infovis/zoo.txt)
+### Txt Visualización Zoo [Ver](https://hugogutierrez2021.github.io/infovis/zoo.txt)
 
-### Txt Visualization Zoo [Ver](https://hugogutierrez2021.github.io/infovis/TPEleccionesPASO.html)
+### Visualization TP Elecciones PASO 2021 [Ver](https://hugogutierrez2021.github.io/infovis/TPEleccionesPASO.html)
