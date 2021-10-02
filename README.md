@@ -11,3 +11,4 @@ InfoVis Itba
 
 ### Visualización TP Elecciones PASO 2021 [Ver](https://colab.research.google.com/drive/1xtroMlTyog8jzRM7K-n7xFVBq8h71RKG?usp=sharing)
 
+### DAtos Elecciones PASO para TP Visualización [Ver](https://hugogutierrez2021.github.io/infovis/zoo.txt)
