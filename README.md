@@ -9,4 +9,4 @@ InfoVis Itba
 
 ### Txt Visualización Zoo [Ver](https://hugogutierrez2021.github.io/infovis/zoo.txt)
 
-### Visualization TP Elecciones PASO 2021 [Ver](https://hugogutierrez2021.github.io/infovis/TPEleccionesPASO.html)
+### Visualización TP Elecciones PASO 2021 [Ver](https://hugogutierrez2021.github.io/infovis/TPEleccionesPASO.html)
