@@ -9,4 +9,4 @@ InfoVis Itba
 
 ### Txt Visualization Zoo [Ver](https://hugogutierrez2021.github.io/infovis/zoo.txt)
 
-
+### Txt Visualization Zoo [Ver](https://hugogutierrez2021.github.io/infovis/TPEleccionesPASO.html)
